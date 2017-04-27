@@ -1,5 +1,7 @@
 # CSE6250 Final Project: Learning to Diagnose using Clinical Notes
 
+Video Link: https://youtu.be/Kv79W96W6w0
+
 Members:
 * Jinmiao Huang
 * Cesar Osorio
