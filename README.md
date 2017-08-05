@@ -1,4 +1,4 @@
-# CSE6250 Final Project: Learning to Diagnose using Clinical Notes
+# Final Project: Learning to Diagnose using Clinical Notes
 
 Video Link: https://youtu.be/Kv79W96W6w0
 
