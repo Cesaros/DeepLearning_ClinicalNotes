@@ -1,6 +1,7 @@
 # Final Project: Learning to Diagnose using Clinical Notes
 
 Video Link: https://youtu.be/Kv79W96W6w0
+Published paper: https://www.sciencedirect.com/science/article/abs/pii/S0169260718309945
 
 Members:
 * Jinmiao Huang
